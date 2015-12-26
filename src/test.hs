@@ -1,0 +1,3 @@
+import EasyLoader
+
+main = test
